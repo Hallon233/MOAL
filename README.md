@@ -1,2 +1,2 @@
-# MOAL
-Minecraft-online-account-lottery
+源码公示
+为了防止某些人说这次抽奖不公平
